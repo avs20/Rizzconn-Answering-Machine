@@ -1,0 +1,4 @@
+__pycache__/*
+.my_db/*
+vtt_files/*
+venv/*
